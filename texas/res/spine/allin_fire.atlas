@@ -1,0 +1,118 @@
+
+allin_fire.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 873, 605
+  size: 147, 206
+  orig: 147, 206
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 663, 864
+  size: 156, 209
+  orig: 156, 209
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 211, 5
+  size: 156, 201
+  orig: 156, 201
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 160, 163
+  size: 157, 207
+  orig: 157, 207
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 2, 2
+  size: 152, 207
+  orig: 152, 207
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 331, 813
+  size: 165, 207
+  orig: 165, 207
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 166, 593
+  size: 151, 204
+  orig: 151, 204
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 166, 399
+  size: 138, 192
+  orig: 138, 192
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 663, 707
+  size: 155, 208
+  orig: 155, 208
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 874, 813
+  size: 148, 207
+  orig: 148, 207
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 169, 808
+  size: 160, 212
+  orig: 160, 212
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 584
+  size: 162, 213
+  orig: 162, 213
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 2, 799
+  size: 165, 221
+  orig: 165, 221
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 156
+  size: 156, 214
+  orig: 156, 214
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 498, 815
+  size: 163, 205
+  orig: 163, 205
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 2, 372
+  size: 162, 210
+  orig: 162, 210
+  offset: 0, 0
+  index: -1

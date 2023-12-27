@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>omaha/hall/hall_icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{615,810},{133,164}}</string>
+				<key>offset</key>
+				<string>{0,-7}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{133,178}</string>
+			</dict>
+			<key>omaha/hall/room_icon_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{646,491},{336,266}}</string>
+				<key>offset</key>
+				<string>{0,-17}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{353,488}</string>
+			</dict>
+			<key>omaha/hall/room_icon_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{750,759},{271,257}}</string>
+				<key>offset</key>
+				<string>{20,-9}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{353,488}</string>
+			</dict>
+			<key>omaha/hall/room_icon_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{711,1},{320,279}}</string>
+				<key>offset</key>
+				<string>{-10,-4}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{353,488}</string>
+			</dict>
+			<key>omaha/hall/room_icon_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{356,810},{257,180}}</string>
+				<key>offset</key>
+				<string>{10,-22}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{353,488}</string>
+			</dict>
+			<key>omaha/hall/room_icon_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{984,383},{269,234}}</string>
+				<key>offset</key>
+				<string>{10,6}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{353,488}</string>
+			</dict>
+			<key>omaha/hall/room_icon_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{356,491},{317,288}}</string>
+				<key>offset</key>
+				<string>{-5,-1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{353,488}</string>
+			</dict>
+			<key>omaha/hall/room_item_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{353,488}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{353,488}</string>
+			</dict>
+			<key>omaha/hall/room_item_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,491},{353,488}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{353,488}</string>
+			</dict>
+			<key>omaha/hall/room_item_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{356,1},{353,488}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{353,488}</string>
+			</dict>
+			<key>omaha/hall/room_num_frame.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{711,323},{275,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{275,58}</string>
+			</dict>
+			<key>omaha/hall/room_num_icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1001},{18,19}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{18,19}</string>
+			</dict>
+			<key>omaha/hall/top_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,981},{18,102}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{18,102}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>omaha_hall_texture.png</string>
+			<key>realTextureFileName</key>
+			<string>omaha_hall_texture.png</string>
+			<key>size</key>
+			<string>{1219,1021}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1219</integer>
+			<key>height</key>
+			<integer>1021</integer>
+		</dict>
+	</dict>
+</plist>

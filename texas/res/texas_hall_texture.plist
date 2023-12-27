@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>texas/hall/item_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{643,1},{314,278}}</string>
+				<key>offset</key>
+				<string>{0,-8}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{314,294}</string>
+			</dict>
+			<key>texas/hall/peaple_purple.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{980,101},{16,20}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{16,20}</string>
+			</dict>
+			<key>texas/hall/peaple_white.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{959,101},{18,19}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{18,19}</string>
+			</dict>
+			<key>texas/hall/top_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,394},{640,108}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{640,108}</string>
+			</dict>
+			<key>texas/hall/hall_card_icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{311,1},{94,120}}</string>
+				<key>offset</key>
+				<string>{-2,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{98,121}</string>
+			</dict>
+			<key>texas/hall/tab_item.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{779,418},{80,66}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{80,66}</string>
+			</dict>
+			<key>texas/hall/lock_shadow.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{308,391}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{308,391}</string>
+			</dict>
+			<key>texas/hall/btn_private.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{959,1},{98,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{134,90}</string>
+			</dict>
+			<key>texas/hall/btn_private_down.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{643,418},{134,88}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{134,90}</string>
+			</dict>
+			<key>texas/hall/btn_quick_play.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{643,281},{356,135}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{356,135}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>texas_hall_texture.png</string>
+			<key>realTextureFileName</key>
+			<string>texas_hall_texture.png</string>
+			<key>size</key>
+			<string>{1012,507}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1012</integer>
+			<key>height</key>
+			<integer>507</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>dialogs/exchange/exchange_code_fans_btn_normal.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{421,339},{130,67}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{130,67}</string>
+			</dict>
+			<key>dialogs/exchange/exchange_code_fans_btn_pressed.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,120},{130,67}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{130,67}</string>
+			</dict>
+			<key>dialogs/exchange/exchange_code_progress_bar.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{500,43},{26,10}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{26,10}</string>
+			</dict>
+			<key>dialogs/exchange/exchange_code_progress_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{446,146},{28,14}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{28,14}</string>
+			</dict>
+			<key>dialogs/exchange/exchange_code_progress_frame.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,453},{94,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{94,54}</string>
+			</dict>
+			<key>dialogs/exchange/exchange_code_progress_line.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{500,71},{2,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{2,12}</string>
+			</dict>
+			<key>dialogs/exchange/exchange_code_clear.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{288,120},{38,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{38,40}</string>
+			</dict>
+			<key>dialogs/exchange/exchange_code_del.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{251,120},{46,35}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{46,35}</string>
+			</dict>
+			<key>dialogs/exchange/exchange_code_arrow.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{446,120},{20,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{20,24}</string>
+			</dict>
+			<key>dialogs/exchange/exchange_code_copy_btn.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{133,120},{116,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{116,54}</string>
+			</dict>
+			<key>dialogs/exchange/exchange_code_frame.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{500,1},{10,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{10,40}</string>
+			</dict>
+			<key>dialogs/exchange/exchange_code_line_frame.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{421,120},{23,85}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{23,85}</string>
+			</dict>
+			<key>dialogs/exchange/exchange_code_num_btn_normal.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{468,1},{30,96}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{30,96}</string>
+			</dict>
+			<key>dialogs/exchange/exchange_code_num_btn_pressed.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{468,99},{30,96}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{30,96}</string>
+			</dict>
+			<key>dialogs/exchange/exchange_code_reward.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{465,117}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{465,117}</string>
+			</dict>
+			<key>dialogs/exchange/exchange_code_tab_off_pressed.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,197},{331,85}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{331,85}</string>
+			</dict>
+			<key>dialogs/exchange/exchange_code_tab_on.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{334,120},{331,85}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{331,85}</string>
+			</dict>
+			<key>dialogs/exchange/exchange_code_title_frame.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{446,197},{140,60}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{140,60}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>dialog_exchange_texture.png</string>
+			<key>realTextureFileName</key>
+			<string>dialog_exchange_texture.png</string>
+			<key>size</key>
+			<string>{511,508}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>511</integer>
+			<key>height</key>
+			<integer>508</integer>
+		</dict>
+	</dict>
+</plist>

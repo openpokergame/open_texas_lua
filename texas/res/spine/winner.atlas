@@ -1,0 +1,34 @@
+
+winner.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian
+  rotate: false
+  xy: 170, 8
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 170, 34
+  size: 134, 196
+  orig: 134, 196
+  offset: 0, 0
+  index: -1
+kuang02
+  rotate: false
+  xy: 2, 2
+  size: 166, 228
+  orig: 166, 228
+  offset: 0, 0
+  index: -1
+winner
+  rotate: false
+  xy: 306, 185
+  size: 138, 45
+  orig: 138, 45
+  offset: 0, 0
+  index: -1

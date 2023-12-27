@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>match/hall/add_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{933,1},{50,46}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{50,46}</string>
+			</dict>
+			<key>match/hall/btn_add.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{933,49},{42,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{42,44}</string>
+			</dict>
+			<key>match/hall/btn_add_down.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{979,79},{42,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{42,44}</string>
+			</dict>
+			<key>match/hall/btn_purple.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,313},{138,138}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{138,138}</string>
+			</dict>
+			<key>match/hall/btn_purple_down.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{141,313},{138,138}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{138,138}</string>
+			</dict>
+			<key>match/hall/btn_yellow.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{281,313},{138,138}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{138,138}</string>
+			</dict>
+			<key>match/hall/btn_yellow_down.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{421,313},{138,138}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{138,138}</string>
+			</dict>
+			<key>match/hall/icon_player.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{973,123},{18,19}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{18,19}</string>
+			</dict>
+			<key>match/hall/item_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{825,293},{170,150}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{170,150}</string>
+			</dict>
+			<key>match/hall/real_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{581,293},{242,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{242,144}</string>
+			</dict>
+			<key>match/hall/splite1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{979,49},{4,28}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{4,28}</string>
+			</dict>
+			<key>match/hall/splite2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{973,93},{4,28}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{4,28}</string>
+			</dict>
+			<key>match/hall/table1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{643,1},{288,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{288,144}</string>
+			</dict>
+			<key>match/hall/table2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{643,147},{288,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{288,144}</string>
+			</dict>
+			<key>match/hall/table3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,167},{288,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{288,144}</string>
+			</dict>
+			<key>match/hall/table4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{291,167},{288,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{288,144}</string>
+			</dict>
+			<key>match/hall/title_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{640,164}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{640,164}</string>
+			</dict>
+			<key>match/hall/icon_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{985,1},{38,37}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{38,37}</string>
+			</dict>
+			<key>match/hall/icon_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{985,40},{38,37}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{38,37}</string>
+			</dict>
+			<key>match/hall/icon_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{933,93},{38,37}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{38,37}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>match_hall_texture.png</string>
+			<key>realTextureFileName</key>
+			<string>match_hall_texture.png</string>
+			<key>size</key>
+			<string>{1024,452}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>452</integer>
+		</dict>
+	</dict>
+</plist>

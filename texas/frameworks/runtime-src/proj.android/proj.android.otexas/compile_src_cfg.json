@@ -1,0 +1,11 @@
+{
+	"sign" : "741x",
+	"key" : "OpenTexas@jackxx",
+	"keyres" : "OpenTexas@jackxx",
+	"copyAssets" : ["assets"],
+	"copySrc" : [],
+	"copyRes" : [],
+	"APP_FILE_PREFIX" : "opentexas___",
+	"delSrc" : [],
+	"delRes" : []
+}

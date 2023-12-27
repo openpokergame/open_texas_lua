@@ -1,0 +1,97 @@
+
+ALLIN.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+IMG/1/IN0
+  rotate: false
+  xy: 217, 13
+  size: 125, 103
+  orig: 125, 103
+  offset: 0, 0
+  index: -1
+IMG/1/IN1
+  rotate: false
+  xy: 2, 5
+  size: 213, 111
+  orig: 213, 111
+  offset: 0, 0
+  index: -1
+IMG/1/IN2
+  rotate: false
+  xy: 412, 349
+  size: 339, 141
+  orig: 339, 141
+  offset: 0, 0
+  index: -1
+IMG/1/IN3
+  rotate: false
+  xy: 2, 118
+  size: 395, 141
+  orig: 395, 141
+  offset: 0, 0
+  index: -1
+IMG/1/IN4
+  rotate: false
+  xy: 399, 40
+  size: 173, 141
+  orig: 173, 141
+  offset: 0, 0
+  index: -1
+IMG/1/IN5
+  rotate: false
+  xy: 753, 349
+  size: 191, 141
+  orig: 191, 141
+  offset: 0, 0
+  index: -1
+IMG/1/IN6
+  rotate: false
+  xy: 574, 66
+  size: 103, 115
+  orig: 103, 115
+  offset: 0, 0
+  index: -1
+IMG/1/IN7
+  rotate: true
+  xy: 877, 248
+  size: 99, 97
+  orig: 99, 97
+  offset: 0, 0
+  index: -1
+IMG/GC00
+  rotate: false
+  xy: 412, 183
+  size: 291, 164
+  orig: 291, 164
+  offset: 0, 0
+  index: -1
+IMG/GC01
+  rotate: false
+  xy: 2, 261
+  size: 408, 229
+  orig: 408, 229
+  offset: 0, 0
+  index: -1
+IMG/GC02
+  rotate: false
+  xy: 705, 191
+  size: 170, 156
+  orig: 170, 156
+  offset: 0, 0
+  index: -1
+IMG/couma01
+  rotate: true
+  xy: 344, 2
+  size: 114, 53
+  orig: 114, 53
+  offset: 0, 0
+  index: -1
+IMG/couma02
+  rotate: true
+  xy: 946, 376
+  size: 114, 39
+  orig: 114, 53
+  offset: 0, 0
+  index: -1

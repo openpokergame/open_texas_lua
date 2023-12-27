@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>dialogs/buyin/buy_pop_add.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,377},{80,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,80}</string>
+			</dict>
+			<key>dialogs/buyin/buy_pop_add_down.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{27,91},{80,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,80}</string>
+			</dict>
+			<key>dialogs/buyin/buy_pop_add_money.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{236,1},{18,18}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{30,30}</string>
+			</dict>
+			<key>dialogs/buyin/buy_pop_add_money_light.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{27,337},{30,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{30,30}</string>
+			</dict>
+			<key>dialogs/buyin/buy_pop_back.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,91},{24,284}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{24,284}</string>
+			</dict>
+			<key>dialogs/buyin/buy_pop_money_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,459},{28,106}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{28,106}</string>
+			</dict>
+			<key>dialogs/buyin/buy_pop_slider.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{143,88}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{143,88}</string>
+			</dict>
+			<key>dialogs/buyin/buy_pop_slider_bar.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{109,91},{40,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{40,30}</string>
+			</dict>
+			<key>dialogs/buyin/buy_pop_slider_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{109,133},{40,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{40,30}</string>
+			</dict>
+			<key>dialogs/buyin/buy_pop_slider_down.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{146,1},{143,88}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{143,88}</string>
+			</dict>
+			<key>dialogs/buyin/buy_pop_sub.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{27,173},{80,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,80}</string>
+			</dict>
+			<key>dialogs/buyin/buy_pop_sub_down.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{27,255},{80,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,80}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>dialog_buyin.png</string>
+			<key>realTextureFileName</key>
+			<string>dialog_buyin.png</string>
+			<key>size</key>
+			<string>{255,488}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>255</integer>
+			<key>height</key>
+			<integer>488</integer>
+		</dict>
+	</dict>
+</plist>

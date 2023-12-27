@@ -1,0 +1,34 @@
+
+jianglitanchuang.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 278, 278
+  orig: 278, 278
+  offset: 0, 0
+  index: -1
+cd
+  rotate: false
+  xy: 2, 282
+  size: 456, 130
+  orig: 456, 130
+  offset: 0, 0
+  index: -1
+g
+  rotate: true
+  xy: 282, 30
+  size: 250, 182
+  orig: 250, 182
+  offset: 0, 0
+  index: -1
+hg
+  rotate: false
+  xy: 466, 267
+  size: 199, 145
+  orig: 199, 145
+  offset: 0, 0
+  index: -1

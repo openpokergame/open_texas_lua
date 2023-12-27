@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>dialogs/help/arrow.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{952,233},{26,19}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{26,19}</string>
+			</dict>
+			<key>dialogs/help/feed_split.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1016,1},{48,2}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{48,2}</string>
+			</dict>
+			<key>dialogs/help/fensi_home.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{144,189},{50,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{50,50}</string>
+			</dict>
+			<key>dialogs/help/i_play.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{766,186}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{766,186}</string>
+			</dict>
+			<key>dialogs/help/level_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{984,1},{30,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{30,100}</string>
+			</dict>
+			<key>dialogs/help/level_item.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{984,185},{20,60}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{20,60}</string>
+			</dict>
+			<key>dialogs/help/level_split.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1020,1},{2,20}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{2,20}</string>
+			</dict>
+			<key>dialogs/help/pai1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{769,1},{181,369}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{181,369}</string>
+			</dict>
+			<key>dialogs/help/pai2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,372},{181,369}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{181,369}</string>
+			</dict>
+			<key>dialogs/help/photo_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{952,1},{30,148}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{30,148}</string>
+			</dict>
+			<key>dialogs/help/photo_icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,189},{115,89}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{115,89}</string>
+			</dict>
+			<key>dialogs/help/question_content_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{984,103},{30,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{30,80}</string>
+			</dict>
+			<key>dialogs/help/question_title_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{952,151},{30,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{30,80}</string>
+			</dict>
+			<key>dialogs/help/btn_point.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{980,247},{42,60}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{42,60}</string>
+			</dict>
+			<key>dialogs/help/green_btn_icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{952,309},{50,86}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{50,86}</string>
+			</dict>
+			<key>dialogs/help/purple_btn_icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,306},{50,86}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{50,86}</string>
+			</dict>
+			<key>dialogs/help/red_btn_icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{89,306},{50,86}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{50,86}</string>
+			</dict>
+			<key>dialogs/help/yellow_btn_icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{92,189},{50,86}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{50,86}</string>
+			</dict>
+			<key>dialogs/help/line_icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{144,241},{50,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{50,50}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>dialog_help.png</string>
+			<key>realTextureFileName</key>
+			<string>dialog_help.png</string>
+			<key>size</key>
+			<string>{1023,742}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1023</integer>
+			<key>height</key>
+			<integer>742</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "837605678732",
+    "project_id": "openpoker-3cf46",
+    "storage_bucket": "openpoker-3cf46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837605678732:android:1a2c682917038e16baa5a9",
+        "android_client_info": {
+          "package_name": "com.opentexas.gametexas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLlAWDZYW4r4y-eNbM9hjWopruUTLg6wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

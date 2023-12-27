@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>dialogs/keyboard/keyboard_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{81,118},{24,46}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{24,46}</string>
+			</dict>
+			<key>dialogs/keyboard/keyboard_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{81,144},{18,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{18,45}</string>
+			</dict>
+			<key>dialogs/keyboard/keyboard_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{60,71},{25,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{25,45}</string>
+			</dict>
+			<key>dialogs/keyboard/keyboard_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{33,71},{25,46}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{25,46}</string>
+			</dict>
+			<key>dialogs/keyboard/keyboard_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{93,197},{26,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{26,45}</string>
+			</dict>
+			<key>dialogs/keyboard/keyboard_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{33,119},{25,46}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{25,46}</string>
+			</dict>
+			<key>dialogs/keyboard/keyboard_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{95,164},{24,46}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{24,46}</string>
+			</dict>
+			<key>dialogs/keyboard/keyboard_7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{87,49},{24,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{24,45}</string>
+			</dict>
+			<key>dialogs/keyboard/keyboard_8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{121,190},{24,46}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{24,46}</string>
+			</dict>
+			<key>dialogs/keyboard/keyboard_9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{71,1},{24,46}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{24,46}</string>
+			</dict>
+			<key>dialogs/keyboard/keyboard_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{68,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{68,68}</string>
+			</dict>
+			<key>dialogs/keyboard/keyboard_del_icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,197},{54,46}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{54,46}</string>
+			</dict>
+			<key>dialogs/keyboard/keyboard_enter_icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{49,197},{56,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{56,42}</string>
+			</dict>
+			<key>dialogs/keyboard/keyboard_num_btn_normal.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,71},{30,92}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{30,92}</string>
+			</dict>
+			<key>dialogs/keyboard/keyboard_num_btn_pressed.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,165},{30,92}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{30,92}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>dialog_keyboard_texture.png</string>
+			<key>realTextureFileName</key>
+			<string>dialog_keyboard_texture.png</string>
+			<key>size</key>
+			<string>{146,254}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>146</integer>
+			<key>height</key>
+			<integer>254</integer>
+		</dict>
+	</dict>
+</plist>

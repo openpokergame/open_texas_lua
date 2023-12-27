@@ -1,0 +1,34 @@
+
+baoxiang.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img/baoxiang/guang huan
+  rotate: false
+  xy: 2, 2
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+img/baoxiang/guangdian
+  rotate: false
+  xy: 275, 88
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+img/baoxiang/ico2
+  rotate: false
+  xy: 199, 35
+  size: 74, 73
+  orig: 74, 73
+  offset: 0, 0
+  index: -1
+img/baoxiang/icon
+  rotate: false
+  xy: 110, 19
+  size: 87, 89
+  orig: 87, 89
+  offset: 0, 0
+  index: -1

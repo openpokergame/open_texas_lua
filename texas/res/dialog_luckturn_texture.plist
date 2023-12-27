@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>dialogs/luckturn/luckturn_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{584,618}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{584,618}</string>
+			</dict>
+			<key>dialogs/luckturn/luckturn_fee_btn_normal.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{675,492},{222,222}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{222,222}</string>
+			</dict>
+			<key>dialogs/luckturn/luckturn_fee_btn_pressed.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{785,231},{222,222}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{222,222}</string>
+			</dict>
+			<key>dialogs/luckturn/luckturn_free_btn_normal.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{445,621},{228,228}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{228,228}</string>
+			</dict>
+			<key>dialogs/luckturn/luckturn_free_btn_pressed.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{587,1},{228,228}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{228,228}</string>
+			</dict>
+			<key>dialogs/luckturn/luckturn_light_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{587,231},{259,196}}</string>
+				<key>offset</key>
+				<string>{-1,37}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{266,316}</string>
+			</dict>
+			<key>dialogs/luckturn/luckturn_light_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{245,621},{266,198}}</string>
+				<key>offset</key>
+				<string>{0,45}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{266,316}</string>
+			</dict>
+			<key>dialogs/luckturn/luckturn_selected_frame.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,621},{242,316}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{266,316}</string>
+			</dict>
+			<key>dialogs/luckturn/luckturn_arrow_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{75,1005},{25,18}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{25,18}</string>
+			</dict>
+			<key>dialogs/luckturn/luckturn_arrow_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{102,1005},{25,18}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{25,18}</string>
+			</dict>
+			<key>dialogs/luckturn/luckturn_close_btn_normal.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,939},{72,72}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{72,72}</string>
+			</dict>
+			<key>dialogs/luckturn/luckturn_close_btn_pressed.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{75,939},{64,64}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{64,64}</string>
+			</dict>
+			<key>dialogs/luckturn/luckturn_record_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{141,991},{28,49}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{28,49}</string>
+			</dict>
+			<key>dialogs/luckturn/luckturn_record_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{192,991},{28,49}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{28,49}</string>
+			</dict>
+			<key>dialogs/luckturn/luckturn_head_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{193,939},{46,46}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{46,46}</string>
+			</dict>
+			<key>dialogs/luckturn/luckturn_head_frame.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{141,939},{50,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{50,50}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>dialog_luckturn_texture.png</string>
+			<key>realTextureFileName</key>
+			<string>dialog_luckturn_texture.png</string>
+			<key>size</key>
+			<string>{1008,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1008</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

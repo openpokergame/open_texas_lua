@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">開源德州</string>
+    <string name="facebook_app_id">1089206782504818</string>
+    <string-array name="gcm_sender_ids">
+        <item>946041873885</item>
+    </string-array>
+</resources>

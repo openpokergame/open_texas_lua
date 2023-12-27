@@ -1,0 +1,48 @@
+
+match_reward.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chouma
+  rotate: true
+  xy: 2, 96
+  size: 158, 317
+  orig: 158, 317
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 597, 98
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 755, 134
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+huanguan
+  rotate: true
+  xy: 321, 96
+  size: 61, 133
+  orig: 61, 133
+  offset: 0, 0
+  index: -1
+maisui
+  rotate: true
+  xy: 321, 159
+  size: 95, 274
+  orig: 95, 274
+  offset: 0, 0
+  index: -1
+piaodiao
+  rotate: false
+  xy: 2, 2
+  size: 257, 92
+  orig: 257, 92
+  offset: 0, 0
+  index: -1

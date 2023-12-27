@@ -1,0 +1,48 @@
+
+dian.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img/1/XP1
+  rotate: false
+  xy: 2, 2
+  size: 81, 114
+  orig: 84, 126
+  offset: 0, 8
+  index: -1
+img/1/XP2
+  rotate: true
+  xy: 185, 30
+  size: 77, 61
+  orig: 77, 61
+  offset: 0, 0
+  index: -1
+img/1/XP3
+  rotate: false
+  xy: 85, 49
+  size: 86, 58
+  orig: 86, 58
+  offset: 0, 0
+  index: -1
+img/1/XP4
+  rotate: false
+  xy: 85, 2
+  size: 98, 45
+  orig: 98, 45
+  offset: 0, 0
+  index: -1
+img/1/XP5
+  rotate: false
+  xy: 85, 109
+  size: 149, 7
+  orig: 149, 7
+  offset: 0, 0
+  index: -1
+img/1/h1
+  rotate: false
+  xy: 185, 11
+  size: 38, 17
+  orig: 38, 17
+  offset: 0, 0
+  index: -1

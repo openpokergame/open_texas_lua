@@ -1,0 +1,62 @@
+
+duojindao.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 918, 201
+  size: 104, 35
+  orig: 104, 36
+  offset: 0, 1
+  index: -1
+g_gm
+  rotate: false
+  xy: 539, 93
+  size: 159, 143
+  orig: 159, 143
+  offset: 0, 0
+  index: -1
+g_zd
+  rotate: false
+  xy: 376, 92
+  size: 161, 144
+  orig: 161, 144
+  offset: 0, 0
+  index: -1
+gd
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+gx
+  rotate: false
+  xy: 2, 20
+  size: 206, 216
+  orig: 206, 216
+  offset: 0, 0
+  index: -1
+gy
+  rotate: false
+  xy: 210, 73
+  size: 164, 163
+  orig: 164, 163
+  offset: 0, 0
+  index: -1
+tb
+  rotate: false
+  xy: 700, 146
+  size: 107, 90
+  orig: 107, 90
+  offset: 0, 0
+  index: -1
+tb2
+  rotate: false
+  xy: 809, 146
+  size: 107, 90
+  orig: 107, 90
+  offset: 0, 0
+  index: -1

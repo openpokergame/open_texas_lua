@@ -1,0 +1,23 @@
+local L = {}
+L.UPDATE = {}
+L.UPDATE.COPY_RIGHT = "Copyright © 2024 OpenPoker Technology CO., LTD All Rights Reserved."--Copyright © 2024 OpenPoker Technology CO., LTD All Rights Reserved.
+L.UPDATE.CHECKING_VERSION = "Проверка версии"--正在检查版本
+L.UPDATE.CHECKING_RES_UPDATE = "Проверка обновлений "--正在检查资源更新
+L.UPDATE.DOWNLOADING_MSG = "Загрузка ({1}/{2})"--正在下载资源({1}/{2})
+L.UPDATE.UPDATE_NOW = "Обновить сейчас"--现在更新
+L.UPDATE.UPDATE_LATER = "Обновить позже"--以后更新
+L.UPDATE.DOWNLOAD_ERROR = "Ошибка при скачивании"--下载出错
+L.UPDATE.DOWNLOAD_NOT_IN_WIFI_PROMPT_TITLE = "Дружеское напоминание"--温馨提示
+L.UPDATE.SPEED = "Скорость скачивания: {1}"--下载速度：{1}
+L.UPDATE.DOWNLOAD_NOT_IN_WIFI_PROMPT_MSG = "Текущая передача данных происходит не через wifi. Для скачивания APK новой версии {1} будет использован ваш мобильный трафик. Хотите ли скачать сейчас?"--您当前使用的网络不是wifi,需要耗费您的手机流量下载{1}的更新包，是否立即下载？
+L.UPDATE.UPDATE_COMPLETE = "Обновление завершено"--更新完成
+L.UPDATE.IS_ALREADY_THE_LATEST_VERSION = "Это последняя версия"--已经是最新版本
+L.UPDATE.BAD_NETWORK_MSG = "Плохое соединение с интернетом. Не удалось обновить."--网络状况不佳，更新失败
+L.UPDATE.UPDATE_CANCELED = "Обновление отменено"--更新已经取消
+L.UPDATE.DOWNLOAD_SIZE = "Размер файла: {1}"--下载文件大小：{1}
+L.UPDATE.DOWNLOAD_PROGRESS = "Идёт скачивание {1}%"--正在下载资源 {1}%
+L.UPDATE.QUIT_DIALOG_TITLE = "Подтверждение выхода"--确认退出
+L.UPDATE.QUIT_DIALOG_MSG = "Вы правда хотите выйти из игры?\\(≧▽≦)/~"--真的确认退出游戏吗？\\(≧▽≦)/~
+L.UPDATE.QUIT_DIALOG_CONFIRM = "Выход"--忍痛退出
+L.UPDATE.QUIT_DIALOG_CANCEL = "Отмена"--我点错了
+return L

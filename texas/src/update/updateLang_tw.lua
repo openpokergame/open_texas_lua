@@ -1,0 +1,23 @@
+local L = {}
+L.UPDATE = {}
+L.UPDATE.COPY_RIGHT = "Copyright © 2024 OpenPoker Technology CO., LTD All Rights Reserved."
+L.UPDATE.CHECKING_VERSION = "正在檢查版本"
+L.UPDATE.CHECKING_RES_UPDATE = "正在檢查資源更新"
+L.UPDATE.DOWNLOADING_MSG = "正在下載資源({1}/{2})"
+L.UPDATE.UPDATE_NOW = "現在更新"
+L.UPDATE.UPDATE_LATER = "以後更新"
+L.UPDATE.DOWNLOAD_ERROR = "下載出錯"
+L.UPDATE.DOWNLOAD_NOT_IN_WIFI_PROMPT_TITLE = "溫馨提示"
+L.UPDATE.SPEED = "下載速度：{1}"
+L.UPDATE.DOWNLOAD_NOT_IN_WIFI_PROMPT_MSG = "您當前使用的網路不是wifi,需要耗費您的手機流量下載{1}的更新包，是否立即下載？"
+L.UPDATE.UPDATE_COMPLETE = "更新完成"
+L.UPDATE.IS_ALREADY_THE_LATEST_VERSION = "已經是最新版本"
+L.UPDATE.BAD_NETWORK_MSG = "網路狀況不佳，更新失敗"
+L.UPDATE.UPDATE_CANCELED = "更新已經取消"
+L.UPDATE.DOWNLOAD_SIZE = "下載檔案大小：{1}"
+L.UPDATE.DOWNLOAD_PROGRESS = "正在下載資源 {1}%"
+L.UPDATE.QUIT_DIALOG_TITLE = "確認退出"
+L.UPDATE.QUIT_DIALOG_MSG = "真的確認退出遊戲嗎？\\(≧▽≦)/~"
+L.UPDATE.QUIT_DIALOG_CONFIRM = "忍痛退出"
+L.UPDATE.QUIT_DIALOG_CANCEL = "我點錯了"
+return L

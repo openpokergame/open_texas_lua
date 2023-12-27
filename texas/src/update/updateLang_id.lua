@@ -1,0 +1,23 @@
+local L = {}
+L.UPDATE = {}
+L.UPDATE.COPY_RIGHT = "Copyright © 2024 OpenPoker Technology CO., LTD All Rights Reserved." -- Copyright © 2024 OpenPoker Technology CO., LTD All Rights Reserved.
+L.UPDATE.CHECKING_VERSION = "Sedang cek versi" -- 正在检查版本
+L.UPDATE.CHECKING_RES_UPDATE = "Sedang memeriksa file update" -- 正在检查资源更新
+L.UPDATE.DOWNLOADING_MSG = "Sedang mengunduh data ({1}/{2})" -- 正在下载资源({1}/{2})
+L.UPDATE.UPDATE_NOW = "Update" -- 现在更新
+L.UPDATE.UPDATE_LATER = "Nanti" -- 以后更新
+L.UPDATE.DOWNLOAD_ERROR = "Gagal unduh" -- 下载出错
+L.UPDATE.DOWNLOAD_NOT_IN_WIFI_PROMPT_TITLE = "Tips" -- 温馨提示
+L.UPDATE.SPEED = "Kecepatan: {1}" -- 下载速度：{1}
+L.UPDATE.DOWNLOAD_NOT_IN_WIFI_PROMPT_MSG = "Kamu tidak terhubung dengan WIFI, akan pakai data untuk unduh {1} update, yakin unduh?" -- 您当前使用的网络不是wifi,需要耗费您的手机流量下载{1}的更新包，是否立即下载？
+L.UPDATE.UPDATE_COMPLETE = "Selesai Update" -- 更新完成
+L.UPDATE.IS_ALREADY_THE_LATEST_VERSION = "Sudah versi terbaru" -- 已经是最新版本
+L.UPDATE.BAD_NETWORK_MSG = "Koneksi buruk, gagal update" -- 网络状况不佳，更新失败
+L.UPDATE.UPDATE_CANCELED = "Update dibatalkan" -- 更新已经取消
+L.UPDATE.DOWNLOAD_SIZE = "Ukuran unduh: {1}" -- 下载文件大小：{1}
+L.UPDATE.DOWNLOAD_PROGRESS = "Sedang unduh data {1}%" -- 正在下载资源 {1}%
+L.UPDATE.QUIT_DIALOG_TITLE = "Keluar" -- 确认退出
+L.UPDATE.QUIT_DIALOG_MSG = "Yakin mau keluar game? \\(≧▽≦)/~" -- 真的确认退出游戏吗？\\(≧▽≦)/~
+L.UPDATE.QUIT_DIALOG_CONFIRM = "Tetap keluar" -- 忍痛退出
+L.UPDATE.QUIT_DIALOG_CANCEL = "Nggak jadi" -- 我点错了
+return L

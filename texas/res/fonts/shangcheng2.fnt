@@ -1,0 +1,26 @@
+info face="Arial" size=46 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=45 base=36 scaleW=256 scaleH=256 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="shangcheng2.png"
+chars count=22
+char id=37   x=0     y=0     width=41    height=44    xoffset=0     yoffset=0     xadvance=41    page=0  chnl=15
+char id=43   x=26    y=90    width=24    height=44    xoffset=0     yoffset=0     xadvance=24    page=0  chnl=15
+char id=44   x=244   y=0     width=10    height=44    xoffset=0     yoffset=0     xadvance=10    page=0  chnl=15
+char id=45   x=51    y=90    width=24    height=44    xoffset=0     yoffset=0     xadvance=24    page=0  chnl=15
+char id=46   x=95    y=90    width=9     height=44    xoffset=0     yoffset=0     xadvance=9     page=0  chnl=15
+char id=48   x=223   y=45    width=25    height=44    xoffset=0     yoffset=0     xadvance=25    page=0  chnl=15
+char id=49   x=76    y=90    width=18    height=44    xoffset=0     yoffset=0     xadvance=18    page=0  chnl=15
+char id=50   x=0     y=90    width=25    height=44    xoffset=0     yoffset=0     xadvance=25    page=0  chnl=15
+char id=51   x=88    y=45    width=26    height=44    xoffset=0     yoffset=0     xadvance=26    page=0  chnl=15
+char id=52   x=31    y=45    width=28    height=44    xoffset=0     yoffset=0     xadvance=28    page=0  chnl=15
+char id=53   x=60    y=45    width=27    height=44    xoffset=0     yoffset=0     xadvance=27    page=0  chnl=15
+char id=54   x=115   y=45    width=26    height=44    xoffset=0     yoffset=0     xadvance=26    page=0  chnl=15
+char id=55   x=142   y=45    width=26    height=44    xoffset=0     yoffset=0     xadvance=26    page=0  chnl=15
+char id=56   x=169   y=45    width=26    height=44    xoffset=0     yoffset=0     xadvance=26    page=0  chnl=15
+char id=57   x=196   y=45    width=26    height=44    xoffset=0     yoffset=0     xadvance=26    page=0  chnl=15
+char id=66   x=148   y=0     width=32    height=44    xoffset=0     yoffset=0     xadvance=32    page=0  chnl=15
+char id=68   x=181   y=0     width=31    height=44    xoffset=0     yoffset=0     xadvance=31    page=0  chnl=15
+char id=72   x=213   y=0     width=30    height=44    xoffset=0     yoffset=0     xadvance=30    page=0  chnl=15
+char id=75   x=114   y=0     width=33    height=44    xoffset=0     yoffset=0     xadvance=33    page=0  chnl=15
+char id=77   x=42    y=0     width=36    height=44    xoffset=0     yoffset=0     xadvance=36    page=0  chnl=15
+char id=84   x=0     y=45    width=30    height=44    xoffset=0     yoffset=0     xadvance=30    page=0  chnl=15
+char id=86   x=79    y=0     width=34    height=44    xoffset=0     yoffset=0     xadvance=34    page=0  chnl=15
